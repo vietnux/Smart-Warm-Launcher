@@ -34,7 +34,7 @@ Thank you CookieJarApps
 This project is under the GNU-GPL 3.0
 
 ## Donate
-If you like Stability and Faster Launcher be happy about a donation. You can either send bitcoin or donate via Paypal.
+If you like Smart & Warm Launcher be happy about a donation. You can either send bitcoin or donate via Paypal.
 
 <table>
   <tr>
