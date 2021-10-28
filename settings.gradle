@@ -1,0 +1,14 @@
+include ':app'
+include ':material-intro-screen'
+project(':material-intro-screen').projectDir = new File(rootDir, 'material-intro-screen-master/material-intro-screen/')
+//rootProject.name='SmartCookieLauncher'
+
+//include ':core'
+//project(':core').projectDir = new File(rootDir, 'bintray-release-master/plugin/core/')
+//project(':core').buildFileName = 'publish.gradle'
+
+//includeBuild('/') {
+//    dependencySubstitution {
+//        substitute module('com.novoda:bintray-release:local') with project(':core')
+//    }
+//}
