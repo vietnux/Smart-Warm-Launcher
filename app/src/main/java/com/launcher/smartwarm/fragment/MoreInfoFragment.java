@@ -94,7 +94,7 @@ public class MoreInfoFragment extends GsPreferenceFragmentCompat<AppSettings> {
                 }
                 case R.string.pref_key__more_info__android_contribution_guide: {
                     _cu.openWebpageInExternalBrowser(
-                            String.format("https://gsantner.net/android-contribution-guide/?packageid=%s&name=%s&web=%s",
+                            String.format("http://thegioilaptrinh.net/?packageid=%s&name=%s&web=%s",
                                     _cu.context().getPackageName(), getString(R.string.app_name), getString(R.string.app_web_url).replace("=", "%3D")));
                     return true;
                 }
