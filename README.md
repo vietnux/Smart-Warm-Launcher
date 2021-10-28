@@ -4,7 +4,18 @@ Smart & Warm Launcher is a theme for android smartphone with features profession
 
 ![ApplicationIcon](metadata/ic_launcher_foreground.png)
 
-### Features
+## Screenshots *(Captures d'écran)*
+
+<img src="metadata/Screenshot_20211028-092942.png" width="360" height="675">
+
+<img src="metadata/Screenshot_20211028-093000.png" width="360" height="675"><img src="gui/Screenshot_20210601-103550_Analytics.jpg" width="360" height="675">
+<img src="metadata/Screenshot_20211028-093017.png" width="360" height="675"><img src="gui/Screenshot_20210601-103709_Discreet Launcher.jpg" width="360" height="675">
+<img src="metadata/Screenshot_20211028-093035.png" width="360" height="675"><img src="gui/Screenshot_20210601-103709_Discreet Launcher.jpg" width="360" height="675">
+<img src="metadata/Screenshot_20211028-093042.png" width="360" height="675"><img src="gui/Screenshot_20210601-103709_Discreet Launcher.jpg" width="360" height="675">
+<img src="metadata/Screenshot_20211028-093054.png" width="360" height="675"><img src="gui/Screenshot_20210601-103709_Discreet Launcher.jpg" width="360" height="675">
+
+
+## ⚡ Features
 
   * Paged desktop
   * Dock
