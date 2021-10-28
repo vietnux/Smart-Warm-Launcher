@@ -16,8 +16,4 @@ Also, to all those people who have helped this project, thank you.
 
 ## LIST OF CONTRIBUTORS
 -->
-* **[Aabaker](https://github.com/aabaker)**<br/>~° Code contributions
-* **[TeamBrainStorm](https://github.com/TeamBrainStorm)**<br/>~° Very supportive when the project started
-* **[GauklerFaun](https://github.com/scoute-dich)**<br/>~° German translation
-* **[Naofum](https://github.com/naofum)**<br/>~° Japanese translation
-* **[MFlisar](https://github.com/MFlisar)**<br/>~° Extraction of core
+* **[Vietnux](https://github.com/aabaker)**<br/>~° Code contributions

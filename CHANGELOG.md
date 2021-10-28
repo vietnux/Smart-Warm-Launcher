@@ -1,25 +1,14 @@
-### v0.5.1
-* fix incorrect label clipping
+### v1.0
 * improve free space calculation for widgets
 * slight changes to settings page
-* fix crash related to group items
 * maximum grid size set to twenty
 * labels can be edited from the drag menu
-
-### v0.5.0
 * Settings have been redesigned and will be reset
 * Add ability launch app with gesture
 * Custom search bar layout without requiring google services
 * Option to lock the desktop from changes
-* Lots of bug fixes
-* Layout fixes
-
-### v0.4.0
 * Desktop is now saved in database and will be reset
 * Move launcheranim and smoothviewpager to app
-* Lots of bug fixes
-
-### v0.3.1
 * Update build scheme
 * Add nightly icons
 * Add CircleCI
