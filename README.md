@@ -1,5 +1,6 @@
 # Smart & Warm Launcher
-A free and open source launcher for Android. It is a fork of Lawnchiar to continue development and add new features.
+A free and open source launcher for Android. It is a fork of Lawnchiar to continue development and add new features.  
+Smart & Warm Launcher is a theme for android smartphone with features profession. It rated as one of the smartest and most perfect Launcher for mobiles.
 
 ![ApplicationIcon](metadata/ic_launcher_foreground.png)
 
