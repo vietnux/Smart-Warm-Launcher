@@ -26,7 +26,7 @@ Smart & Warm Launcher is a theme for android smartphone with features profession
 The project is always open for contributions and accepts pull requests. 
 
 ## Update from
-[SmartCookieLauncher](https://github.com/CookieJarApps/SmartCookieLauncher)
+[SmartCookieLauncher](https://github.com/CookieJarApps/SmartCookieLauncher)  
 Thank you CookieJarApps
 
 ### License
