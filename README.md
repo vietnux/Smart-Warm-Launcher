@@ -1,7 +1,7 @@
 # Smart & Warm Launcher
 A free and open source launcher for Android. It is a fork of Lawnchiar to continue development and add new features.
 
-![ApplicationIcon](metadata/ic_launcher.png)
+![ApplicationIcon](metadata/ic_launcher_foreground.png)
 
 ### Features
 
