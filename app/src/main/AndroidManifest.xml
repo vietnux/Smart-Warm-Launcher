@@ -27,9 +27,7 @@
         android:taskAffinity=""
         android:theme="@style/Home.Light">
 
-        <meta-data
-            android:name="android.max_aspect"
-            android:value="2.1" />
+        <meta-data android:name="android.max_aspect" android:value="2.1" />
 
         <activity
             android:name="com.launcher.smartwarm.activity.OnBoardActivity"
